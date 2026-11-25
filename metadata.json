@@ -1,0 +1,6 @@
+{
+  "name": "OpLift — Lua & Luau Bytecode Decompiler API",
+  "description": "Callable multi-dialect Lua and Luau bytecode decompiler, disassembler, and static analysis API engineered to eliminate SSA phi artifacts, inverted control flow, and opaque diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
